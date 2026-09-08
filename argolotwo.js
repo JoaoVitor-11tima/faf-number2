@@ -8,15 +8,15 @@ function calcularValor() {
 
     let preco;
 
-    if (codigo ==1) {
+    if (codigo == 1) {
         preco = 5.00;
-    } else if (codigo ==2) {
+    } else if (codigo == 2) {
         preco = 3.50;
-    } else if (codigo ==3) {
+    } else if (codigo == 3) {
         preco = 4.80;
-    } else if (codigo ==4) {
+    } else if (codigo == 4) {
         preco = 8.90;
-    } else if (codigo ==5) {
+    } else if (codigo == 5) {
         preco = 7.32;
     }
 
